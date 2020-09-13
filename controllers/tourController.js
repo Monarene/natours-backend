@@ -1,3 +1,4 @@
+/* eslint-disable prefer-object-spread */
 const fs = require('fs');
 
 // Route handling
